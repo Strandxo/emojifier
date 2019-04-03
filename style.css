@@ -1,0 +1,6 @@
+html, body { height:100%; }
+html { display:table; width:100%; }
+body { display:table-cell; text-align:center; vertical-align:middle; font-family: Tahoma, Geneva, sans-serif; background-color: #3f6cff; }
+textarea { background-color: #d3e6ff; }
+h1 { text-transform: uppercase; color: #fff; }
+#i { color: #fff; }
