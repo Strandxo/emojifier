@@ -1,4 +1,4 @@
-window.onload=function(){     
+window.onload = () => {     
 const numStr = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]; 
 const emoji = input => {
       return input.toLowerCase()
@@ -16,5 +16,6 @@ $(document).ready(() => {
         $('#out').select();
         document.execCommand('copy');
       });  
-   })};
+   });
+};
     
